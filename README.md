@@ -11,23 +11,23 @@ _Languages Used: Javascript, HTML, CSS, Express.js, Node.js, MongoDB and Mongoos
 3. [Contributor Guidelines](#contributor-guidelines)
 4. [Testing instructions](#testing-instructions)
 5. [Questions / Contact Information](#questions)
-6. [Walkthrough Video / Screenshots](#walkthrough)
+6. [Walkthrough Video / Screenshots](#screenshot)
 
 ### Installation Instructions:
 
-- Application is deployed on heroku
+- Application is deployed on heroku [Heroku Link](https://superfishal-budget-tracker.herokuapp.com/)
 
 ### Usage Instructions:
 
-Use the input fields to start tracking your finances!
+- Use the input fields to start tracking your finances!
 
 ### Contributor Guidelines:
 
-Push to github for review!
+- Push to github for review!
 
 ### Testing Instructions:
 
-N/A
+- N/A
 
 ### Questions?
 
@@ -35,4 +35,6 @@ N/A
 
 Check out my **[Github](https://github.com/superfishal/budget-tracker)**
 
-### Walkthrough
+### Screenshot
+
+![Budget Tracker Screenshot](public/assets/budget-tracker-screenshot.png)
