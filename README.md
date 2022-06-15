@@ -15,7 +15,7 @@ _Languages Used: Javascript, HTML, CSS, Express.js, Node.js, MongoDB and Mongoos
 
 ### Installation Instructions:
 
-- Application is deployed on heroku [Heroku Link](https://superfishal-budget-tracker.herokuapp.com/)
+- Application is deployed on [Heroku](https://superfishal-budget-tracker.herokuapp.com/)
 
 ### Usage Instructions:
 
